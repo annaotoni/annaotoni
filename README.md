@@ -1,45 +1,37 @@
-# Introducing-myself
-**My name:** Ana Clara Otoni
-**Location:** Betim, Minas Gerais, Brazil  
-**GitHub:** [anaotoni](https://github.com/anaotoni)  
+
+### Hi, I'm Ana Clara Otoni 🖐️
 
 #### 👩‍💻 About Me
 I am a Full Stack Developer and Data Analyst with a passion for extracting significant insights from complex datasets and applying them to drive operational efficiency and strategic business growth. Currently, I am a Data Analyst at Distribuidora GAMA, specializing in Business Intelligence, Machine Learning, and Data Engineering. I am pursuing a degree in Logistics and Data Science, with a solid track record in critical analysis and improvements through strategic insights.
 
 #### 🛠️ Technical Skills
-- **Programming Languages:** Python, SQL, NoSQL, PL/SQL, MongoDB, Redis, PHP, JavaScript
-- **Tools and Technologies:** Power BI, Machine Learning, Business Intelligence, Apache Spark, Databricks, Data Warehouse, Data Lake, Amazon S3, Amazon EC2, Amazon Redshift, Amazon RDS, Amazon Kinesis, AWS Glue, Amazon Athena, Figma, Visual Studio Code
-- **Frameworks and Libraries:** Laravel, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, Statsmodels
+- **Technologies:**
 
-#### 🎓 Educational Background
-- **Data Science** - DNC School (Expected completion: December 2024)
-- **Logistics** - Centro Universitário Una (Expected completion: July 2024)
-- **Technical in Administrative Processes** - SESI SENAI Betim CETEM Maria Madalena Nogueira (2019 - 2021)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![PL/SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### 📈 Professional Experience
-- **Data Analyst**, Distribuidora GAMA - Focused on BI, developing strategic reports, and constructing KPIs using machine learning models.
-- **Logistics Process Analyst**, Loja do Mecânico - Managed and optimized logistical processes, coordinated inventory stock, and developed process reports.
 
-#### 🔗 Links
-- **LinkedIn:** [ana-otoni](https://www.linkedin.com/in/ana-otoni-45530415b)
+- **Python Libraries:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, Statsmodels
 
-#### 📚 Certifications
-- Data Analysis with Excel and Power BI
-- Six Sigma White Belt
-- Lean Tools
-- Market Intelligence
-- Data Cleaning and Organization with Python
-- Data Analysis with Python
-- Oracle SQL and PL/SQL Database
-- SQL for Data Analysis
-- Complete Power BI
 
 #### 🌐 Languages
 - English (Intermediate)
 
-#### 💼 Professional Interests
-I am interested in challenges that allow me to apply and expand my skills in data analysis and science, with a particular focus on projects involving machine learning and business intelligence to solve complex business issues.
-
 ---
 
-🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/ana-otoni-45530415b)** to discuss data science, development, and technological innovations!
+Connect with me on 
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-otoni-45530415b)
+
