@@ -1,33 +1,52 @@
+# Hi, I'm Ana Otoni 👋
 
-### Hi, I'm Ana Clara Otoni 🖐️
+## 👩‍💻 About Me
 
-#### 👩‍💻 About Me
-I am a Full Stack Developer and Data Analyst with a passion for extracting significant insights from complex datasets and applying them to drive operational efficiency and strategic business growth. Currently, I am a Data Analyst at Distribuidora GAMA, specializing in Business Intelligence, Machine Learning, and Data Engineering. I am pursuing a degree in Logistics and Data Science, with a solid track record in critical analysis and improvements through strategic insights.
+I'm a **Full Stack Developer (Pleno)** who works across every stage of development — I model the database, write the back-end, and ship the interface. What drives me is connecting **code and data**: turning a business rule into something that works in practice, from integrations (ERP, marketplace, chatbot) to the reports that support the decision.
 
-#### 🛠️ Technical Skills
-- **Technologies:**
+Currently at **Distribuidora GAMA**, where I build and maintain **GSync** — the multi-tenant system that runs the company's sales, customer service, and ERP operations end to end. I'm also pursuing a postgraduate degree in **Computer Software Engineering at PUC Minas**.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![PL/SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+## 🛠️ Technical Skills
+
+**Back-end**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Front-end**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Tools & Integrations**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![WinThor (TOTVS)](https://img.shields.io/badge/WinThor%20(TOTVS)-005CA9?style=for-the-badge&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 - **Python Libraries:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, Statsmodels
 
+## 🌐 Languages
 
-#### 🌐 Languages
 - English (Intermediate)
 
----
+## 📫 Connect
 
-Connect with me on 
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-otoni-45530415b)
-
+- **LinkedIn:** [Ana Otoni](https://www.linkedin.com/in/annaotoni)
+- **GitHub:** [github.com/annaotoni](https://github.com/annaotoni)
